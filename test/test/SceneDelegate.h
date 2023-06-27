@@ -2,7 +2,7 @@
 //  SceneDelegate.h
 //  test
 //
-//  Created by John W. Blaine on 6/26/23.
+//  Created by John WB. Blaine on 6/26/23.
 //
 
 #import <UIKit/UIKit.h>
